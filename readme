@@ -1,0 +1,29 @@
+<<<PHOTON>>>
+Photon is a turn-based strategy game for the TI-84+CSE only. Requires Doors CSE to run. Get Doors CSE at dcs.cemetech.net
+    <<Menus>>
+To navigate menus, use the up and down arrows, and Enter to select an option.
+   <<Explore Overworld>>
+  To explore the current world you are on, select Explore in the Console menu after selecting your desired location under
+Travel. To move, use the arrow keys. To repair your ship and gain back Ship and Shield HP, press 2nd. Note that you have to
+wait some time before your ship is repaired and you can move again, so be sure to stay away from the enemy onscreen! To 
+pause, press MODE, and to return to the Console menu, press CLEAR while unpaused.
+    <<Battles>>
+  To engage in a battle, the enemy ship must maneuver itself until it's on top of your ship. Then, the battle will start. To
+attempt to flee, press CLEAR. The chance to flee with F rank thrusters is approximately 33%. As you upgrade your thrusters,
+the chance of fleeing increases. If you fail to flee, the enemy attacks you.
+To target an area of the enemy ship to attack, press 2nd. To select the area to attack, navigate with the left and right
+arrow keys and confirm with 2nd. Attacking the opponent's weapons gives a 50% chance of them not attacking that turn.
+Attacking the hull yields normal damage, and attacking the bridge gives a 50% chance of doing 10 more damage, or 10 less if
+you get the other 50%.
+  The enemy can't damage your ship until your shields are down. If your shields are down, the enemy will
+do half damage to your ship in relation to the amount of damage it has left from attacking the shields. If your shields are
+at 0 and an enemy would do 20 damage to shields, they do 10 damage to your ship. If your shields are at 10 and they would do
+20 damage to your shields, they do 5 damage to your ship.
+    <<Travelling in Space>>
+To travel to another planet, select Travel in the Console menu. As you upgrade your thrusters, you will be able to access
+more planets with enemies that are more difficult to defeat. Planets you can not yet visit have their names in gray.
+   <<Upgrading your Ship>>
+Each part of your ship (weapons, thrusters and shields) can all be upgraded a maximum of 7 times from their original level.
+Upgrading parts of your ship can also have certain side effects other than those in battle, such as being able to access more
+planets. In battle, upgrading your ship can slightly alter the appearance of it, such as altering the color or appearance of
+those parts.
