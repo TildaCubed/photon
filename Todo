@@ -1,4 +1,3 @@
-*Different enemies (using matrixes to draw, even 1 per area)
 *More than 1 "Explore" screen
 *Populate "Explore" overworld
 *Ship's damage (HP) affecting functions
@@ -6,4 +5,7 @@
 *End goal/substance to game
 *Test all areas vs damage output of enemies
 *[Maybe] add more targets for attacking function
-*Create readme
+
+ Completed:
+ *Create readme
+ *Different enemies (using matrixes to draw, even 1 per area)
