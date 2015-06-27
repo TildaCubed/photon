@@ -6,7 +6,10 @@ To navigate menus, use the up and down arrows, and Enter to select an option.
   To explore the current world you are on, select Explore in the Console menu after selecting your desired location under
 Travel. To move, use the arrow keys. To repair your ship and gain back Ship and Shield HP, press 2nd. Note that you have to
 wait some time before your ship is repaired and you can move again, so be sure to stay away from the enemy onscreen! To 
-pause, press MODE, and to return to the Console menu, press CLEAR while unpaused.
+pause, press MODE, and to return to the Console menu, maneuver yourself using the arrow keys to 1,1 in the top right corner,
+marked by a "Q", or space station.
+    There is a random chance while wandering around in space that your ship's sensors will detect a wreckage floating around.
+to examine and take it, maneuver your ship on top of it.
     <<Battles>>
   To engage in a battle, the enemy ship must maneuver itself until it's on top of your ship. Then, the battle will start. To
 attempt to flee, press CLEAR. The chance to flee with F rank thrusters is approximately 33%. As you upgrade your thrusters,
